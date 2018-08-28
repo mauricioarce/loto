@@ -1,18 +1,18 @@
 {
   "configVersion": 1,
-  "index": "https://mauricioarce.github.io/loto/index.html",
+  "index": "loto/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "https://mauricioarce.github.io/loto/favicon.ico",
-        "https://mauricioarce.github.io/loto/index.html",
-        "https://mauricioarce.github.io/loto/main.54c9639ee415654e8042.js",
-        "https://mauricioarce.github.io/loto/polyfills.2f4a59095805af02bd79.js",
-        "https://mauricioarce.github.io/loto/runtime.a66f828dca56eeb90e02.js",
-        "https://mauricioarce.github.io/loto/styles.08a0cf2e6a0b467b80be.css"
+        "loto/favicon.ico",
+        "loto/index.html",
+        "loto/main.54c9639ee415654e8042.js",
+        "loto/polyfills.2f4a59095805af02bd79.js",
+        "loto/runtime.a66f828dca56eeb90e02.js",
+        "loto/styles.08a0cf2e6a0b467b80be.css"
       ],
       "patterns": []
     },
@@ -21,38 +21,38 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "https://mauricioarce.github.io/loto/assets/icons/icon-128x128.png",
-        "https://mauricioarce.github.io/loto/assets/icons/icon-144x144.png",
-        "https://mauricioarce.github.io/loto/assets/icons/icon-152x152.png",
-        "https://mauricioarce.github.io/loto/assets/icons/icon-192x192.png",
-        "https://mauricioarce.github.io/loto/assets/icons/icon-384x384.png",
-        "https://mauricioarce.github.io/loto/assets/icons/icon-512x512.png",
-        "https://mauricioarce.github.io/loto/assets/icons/icon-72x72.png",
-        "https://mauricioarce.github.io/loto/assets/icons/icon-96x96.png",
-        "https://mauricioarce.github.io/loto/assets/img/logo.jpg",
-        "https://mauricioarce.github.io/loto/assets/img/mini-logo.jpg"
+        "loto/assets/icons/icon-128x128.png",
+        "loto/assets/icons/icon-144x144.png",
+        "loto/assets/icons/icon-152x152.png",
+        "loto/assets/icons/icon-192x192.png",
+        "loto/assets/icons/icon-384x384.png",
+        "loto/assets/icons/icon-512x512.png",
+        "loto/assets/icons/icon-72x72.png",
+        "loto/assets/icons/icon-96x96.png",
+        "loto/assets/img/logo.jpg",
+        "loto/assets/img/mini-logo.jpg"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://mauricioarce.github.io/loto/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "https://mauricioarce.github.io/loto/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "https://mauricioarce.github.io/loto/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "https://mauricioarce.github.io/loto/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "https://mauricioarce.github.io/loto/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "https://mauricioarce.github.io/loto/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "https://mauricioarce.github.io/loto/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "https://mauricioarce.github.io/loto/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "https://mauricioarce.github.io/loto/assets/img/logo.jpg": "f5ae3227a97e4564bc3fc52fb6cb0db2ed361ada",
-    "https://mauricioarce.github.io/loto/assets/img/mini-logo.jpg": "178f54299b1fbd4d7dba5b047e09c8b0b9143476",
-    "https://mauricioarce.github.io/loto/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://mauricioarce.github.io/loto/index.html": "f1d722fd1b149d40369320b743b9589a35d7d4d0",
-    "https://mauricioarce.github.io/loto/main.54c9639ee415654e8042.js": "a6eae32d5f5f4eaa276ff2bf7c7f9bb7f06ae2b1",
-    "https://mauricioarce.github.io/loto/polyfills.2f4a59095805af02bd79.js": "8949bb1b1e302dda246f6ed9c2da703270360b1f",
-    "https://mauricioarce.github.io/loto/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
-    "https://mauricioarce.github.io/loto/styles.08a0cf2e6a0b467b80be.css": "79eeeca278ce6650cd7efde3ce460610ff43b0a8"
+    "loto/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "loto/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "loto/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "loto/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "loto/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "loto/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "loto/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "loto/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "loto/assets/img/logo.jpg": "f5ae3227a97e4564bc3fc52fb6cb0db2ed361ada",
+    "loto/assets/img/mini-logo.jpg": "178f54299b1fbd4d7dba5b047e09c8b0b9143476",
+    "loto/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "loto/index.html": "e813a76f3dc84236aa58cd66c0c42319b96d1c68",
+    "loto/main.54c9639ee415654e8042.js": "a6eae32d5f5f4eaa276ff2bf7c7f9bb7f06ae2b1",
+    "loto/polyfills.2f4a59095805af02bd79.js": "8949bb1b1e302dda246f6ed9c2da703270360b1f",
+    "loto/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
+    "loto/styles.08a0cf2e6a0b467b80be.css": "79eeeca278ce6650cd7efde3ce460610ff43b0a8"
   },
   "navigationUrls": [
     {
